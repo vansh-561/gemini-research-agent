@@ -29,18 +29,18 @@ A sophisticated multi-agent research application powered by Google Gemini, Tavil
 ### Installation
 
 1. **Clone the repository**
-git clone <your-repository-url>
-cd gemini-research-agent
+- git clone <your-repository-url>
+- cd gemini-research-agent
 
 2. **Install Poetry** (if not already installed)
-curl -sSL https://install.python-poetry.org | python3 -
+- curl -sSL https://install.python-poetry.org | python3 -
 
 3. **Install dependencies**
-poetry install
+- poetry install
 
 4. **Set up environment variables in .env file**
-GOOGLE_API_KEY=your_google_api_key_here
-TAVILY_API_KEY=your_tavily_api_key_here
+- GOOGLE_API_KEY=your_google_api_key_here
+- TAVILY_API_KEY=your_tavily_api_key_here
 
 ## 💻 Usage
 
