@@ -42,6 +42,10 @@ A sophisticated multi-agent research application powered by Google Gemini, Tavil
 - GOOGLE_API_KEY=your_google_api_key_here
 - TAVILY_API_KEY=your_tavily_api_key_here
 
+![Screenshot (101)](https://github.com/user-attachments/assets/eea60da7-3697-4753-935a-5c153a960919)
+![Screenshot (102)](https://github.com/user-attachments/assets/6aba0a61-015b-4c3a-a5fa-a9f7fba0203a)
+![Screenshot (105)](https://github.com/user-attachments/assets/ab8ab288-64b6-4c30-aab6-bd0f0c72d63e)
+
 ## 💻 Usage
 
 1. **Start the application**
